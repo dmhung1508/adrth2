@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quản lý Thời trang</string>
+    <string name="product_image">Hình ảnh sản phẩm</string>
+    <string name="edit_product">Sửa sản phẩm</string>
+    <string name="delete_product">Xóa sản phẩm</string>
+    
+    <string-array name="product_categories">
+        <item>Áo</item>
+        <item>Quần</item>
+        <item>Phụ kiện</item>
+    </string-array>
+</resources>

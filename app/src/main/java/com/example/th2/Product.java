@@ -70,13 +70,13 @@ public class Product implements Serializable {
     public int getImageResource() {
         switch (category) {
             case "Áo":
-                return R.drawable.ic_ao;
+                return R.drawable.ao;
             case "Quần":
-                return R.drawable.ic_quan;
+                return R.drawable.quan;
             case "Phụ kiện":
-                return R.drawable.ic_phukien;
+                return R.drawable.thatlung;
             default:
-                return R.drawable.ic_ao;
+                return R.drawable.ao;
         }
     }
 
